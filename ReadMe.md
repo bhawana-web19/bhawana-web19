@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi ! I am Bhawana Chadda 
 Technical Support representative adept in resolving<br>network issues. Competent in troubleshooting and<br>responding to customers. Seeking for the role of Tech<br>Support Engineer to work for betterment of company<br>and foster returns.
 # My Projects :
 click here to see my work and connect: [My Portfolio](https://bhawana-web19.github.io/)
